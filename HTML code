@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+  <html lang="en">
+    <head>
+      <meta name="description" content="Travel agency page, fullfill your dream">
+      <meta charset="UTF-8">
+      </meta>
+      </meta>
+      <title> Travel agency flight safe</title>
+
+      </head>
+      <body>
+<h1>Travel to Rome</h1>
+<p>Discover unforgettable adventures, breathtaking scenery, and relaxing holidays in Rome.</p>
+<h2>Packages</h2>
+<p>We offer several travel packages to suit every budget and travel style.</p>
+<ul>
+  <li> <a href="https://www.freecodecamp.org/learn" target="_blank">
+        Group Travels
+      </a> </li>
+
+  <li><a href="https://www.freecodecamp.org/learn" target="_blank">
+        Private Tours
+      </a></li>
+  </ul>
+  <h2>Top Itineraries</h2>
+
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg"
+           alt="The Colosseum in Rome">
+    </a>
+    <figcaption>Visit the historic Colosseum.</figcaption>
+  </figure>
+
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg"
+           alt="Beautiful Alps mountains">
+    </a>
+    <figcaption>Explore the stunning Alps.</figcaption>
+  </figure>
+
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg"
+           alt="Crystal clear sea">
+    </a>
+    <figcaption>Relax by the crystal-clear sea.</figcaption>
+  </figure>
+
+</body>
+
+</html>
